@@ -4,7 +4,7 @@
 
 🎓 **BS in Computer Science @ Santa Clara University (SCU, 2021-2024)** 
 
-💡 Passionate about Embedded Systems, Computer Vision, and Deep Learning  
+💡 Passionate about Computer Vision, and Deep Learning, Embedded Systems  
 🔬 Research Assistant @ USC iLab | Former ML Intern @ SLAC, Stanford
 
 ---
