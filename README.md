@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Jake Treska
 
 🎓 **MS in Artificial Intelligence @ University of Southern California (USC, 2024-2026)**
+
 🎓 **BS in Computer Science @ Santa Clara University (SCU, 2021-2024)** 
+
 💡 Passionate about Embedded Systems, Computer Vision, and Deep Learning  
 🔬 Research Assistant @ USC iLab | Former ML Intern @ SLAC, Stanford
 
