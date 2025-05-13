@@ -17,16 +17,16 @@ Currently, I’m diving into 3D vision, point cloud processing, and multimodal A
 ## 🛠️ Technical Interests
 
 - **Computer Vision** (3D point clouds, object/action detection, video enhancement)
-- **Embedded Systems** (logic design, systems programming, low-level optimization)
 - **Multimodal AI** (language + image fusion, consistency evaluation)
 - **Machine Learning** (CRNNs, GANs, Transformers, RL, SSL)
 - **Simulation & Robotics** (Unity + ML Agents, PPO)
+- **Embedded Systems** (logic design, systems programming, low-level optimization)
 
 ---
 
 ## 🌟 Featured Projects
 
-🔍 [ImageIntegrity](https://github.com/JakeTreska/ImageIntegrity)  
+🔍 Image Integrity
 A pipeline for verifying whether an image caption accurately describes its content using BLIP, Detectron2, MMAction2, and TIFA.
 
 📹 Real-Time Drone Video Deblurring  
